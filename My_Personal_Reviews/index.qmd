@@ -40,11 +40,11 @@ Meskipun portofolio ini sangat kuat, ada beberapa area kecil untuk perbaikan:
 |1.  **Format Visual UTS-4:** Di UTS-4, bagian "A - Aptitudes" Anda menggunakan *dua* set *bullet points* (Teknis & Interpersonal). Ini sedikit mematahkan konsistensi visual dari bagian S, H, E, dan P yang menggunakan format tabel (markdown `|`). Sebaiknya, satukan kedua set *bullet points* itu ke dalam satu format tabel agar lebih rapi.
 |2.  **Koneksi UTS-2 ke Audiens:** Di UTS-2, pesan untuk teman dan keluarga sudah bagus. Namun, bisa diperkuat dengan menambahkan satu kalimat contoh spesifik. Misalnya, "Untuk temanku yang ragu pindah kerja," atau "Untuk adikku yang bingung memilih jurusan," agar pesan "It's Not Right For You" terasa lebih personal bagi mereka.
 
-## 2. Peer-Assessment
+## Peer-Assessment
 
 Berikut adalah hasil penilaian terhadap portofolio rekan-rekan mahasiswa. Penilaian dilakukan berdasarkan rubrik UTS-1 hingga UTS-4.
 
-### 2.1 Penilaian untuk: Keisha Daffa Aryani (18224009)
+### Penilaian untuk: Keisha Daffa Aryani (18224009)
 * **URL Portofolio:** (Asumsi: `https://keisharyaa.github.io/II2100_Keisha-Daffa/`)
 
 * **Tinjauan Umum:** Portofolio Keisha sangat jujur dan *to the point*. Cerita personal di UTS-1 (All About Me) memberikan konteks yang kuat untuk analisis SHAPE di UTS-4.
@@ -54,7 +54,7 @@ Berikut adalah hasil penilaian terhadap portofolio rekan-rekan mahasiswa. Penila
     * **UTS-2 (Keterlibatan):** Pesan lagunya sudah baik, namun akan lebih menarik jika ditambahkan video atau *embed* lagunya agar pembaca bisa langsung mendengarkan.
     * **UTS-3 (Pengembangan Narasi):** Ceritanya sudah bagus, namun bisa sedikit lebih dipoles alurnya agar lebih mengalir dan *engaging* dari awal sampai akhir.
 
-### 2.2 Penilaian untuk: Muhammad Okto Huzainy (18224021)
+### Penilaian untuk: Muhammad Okto Huzainy (18224021)
 * **URL Portofolio:** (Asumsi: `https://takkko-o.github.io/all-about-me/`)
 
 * **Tinjauan Umum:** Ini adalah portofolio yang sangat rapi dan dieksekusi dengan baik. Penggunaan lagu di UTS-2 sangat menyentuh dan personal, didukung dengan argumentasi yang kuat.
@@ -63,7 +63,7 @@ Berikut adalah hasil penilaian terhadap portofolio rekan-rekan mahasiswa. Penila
 * **Saran Perbaikan (berdasarkan rubrik UTS-5):**
     * Sulit mencari kekurangan yang signifikan. Portofolio ini sudah sangat baik. Mungkin, di UTS-1 bisa ditambahkan satu "fakta unik" yang lebih ringan untuk memperkuat skor "Humor".
 
-### 2.3 Penilaian untuk: Daniel Arrigo Manurung (18224031)
+### Penilaian untuk: Daniel Arrigo Manurung (18224031)
 * **URL Portofolio:** (Asumsi: `https://1920xl080.github.io/all-about-me/`)
 
 * **Tinjauan Umum:** Portofolio Daniel menunjukkan *passion* yang besar pada satu topik tertentu yang diulang-ulang di beberapa bagian, membuatnya sangat otentik. Cerita di UTS-3 juga sangat orisinal.
