@@ -1,12 +1,45 @@
-# UTS-3 My Stories for You
+# UTS-3: My Stories for You
 
-A story about my oldest daughter [Gaun Pemngantin Gladys](<https://azrl.wordpress.com/2020/07/18/gaun-pengantin-gladys/#comment-28004>)
+## Kecanduan yang Membawa Berkah: Dari Gaptek Menjadi Developer
+Ada satu pesan yang ingin saya bagikan melalui kisah ini, sebuah keyakinan yang telah teruji oleh penolakan dan duka: **"Jangan pernah takut untuk mengambil langkah pertama. Sekali kamu mulai, kamu akan kecanduan."**
+Bagi saya, ini bukan sekadar kutipan. Ini adalah rangkuman perjalanan saya dari seorang mahasiswa "gaptek" yang ditolak, menjadi seorang *developer* dan pembicara.
+Cerita ini dimulai dari sebuah ironi dan sebuah penolakan.
+Di akhir tahun pertama kuliah saya di STEI-K, setelah hampir setahun penuh akhirnya "berkenalan" dengan benda bernama laptop, saya merasakan sebuah percikan aneh. Saya mulai menikmati proses *ngoding*. Sesuatu yang awalnya asing, kini terasa seperti sebuah teka-teki yang menantang untuk dipecahkan. Saya sadar, jika saya ingin serius, saya harus mempersiapkan karir sedini mungkin.
+Target pertama saya jelas: kepanitiaan IT di acara penerimaan mahasiswa baru terbesar di kampus, OSKM ITB 2024. Saya mendaftar dengan harapan tipis.
+Hasilnya? **Saya ditolak mentah-mentah.**
+Bagi si "gaptek" ini, penolakan itu seharusnya menjadi tamparan keras yang menyuruh saya "sadar diri". Itu bisa saja menjadi akhir dari ambisi saya. Tapi, seperti yang saya ceritakan di UTS-1, saya adalah seorang perantau yang ditempa sejak usia 6 tahun. Mundur bukanlah pilihan.
+Saya tidak membiarkan diri saya larut dalam kesedihan. Penolakan itu saya ubah menjadi bensin. Saya tancap gas. Saya buka laptop saya, bukan untuk bermain, tapi untuk belajar *web development* secara otodidak, siang dan malam.
 
-A message to my daughter [The Child Who Learned to Walk at the Disneyland](<https://azrl.wordpress.com/2021/10/06/the-child-who-learned-to-walk-at-the-disneyland/>)
+### Pintu Pertama dan Etos Kerja Aviasi
+"Jangan takut untuk mulai."
+Saya mencoba lagi. Saya mendaftar ke kepanitiaan lain, kali ini untuk acara wisuda terbesar di ITB (Wisuda Oktober). Dan akhirnya, pintu pertama itu terbuka. Saya diterima di tim IT.
+Di sinilah saya tidak main-main. Saya membawa "Etos Kerja Aviasi" yang saya kagumi—bekerja dengan presisi, teliti, dan tidak boleh ada *miss*. Saya ingin membuktikan bahwa penolakan OSKM itu adalah sebuah kesalahan. Saya mencurahkan segalanya.
+Hasilnya melampaui dugaan saya. Di akhir kepanitiaan, saya dianugerahi gelar "Best Staff". Itu bukan sekadar piala atau sertifikat; itu adalah validasi. Itu adalah bukti pertama bahwa si "gaptek" ini bisa. Kepercayaan diri saya yang sempat hancur, kini tumbuh kembali, lebih kuat. Api kemauan saya untuk belajar semakin menyala. Saya mulai merasakan "kecanduan" pertama saya: kecanduan pada proses bertumbuh.
 
-A story for my students [Fly Eagle Fly](<https://azrl.wordpress.com/2008/04/21/fly-my-eagle-fly/>)
+### Kecanduan Mengambil Peluang
+Api itu membawa saya ke organisasi IEEE ITB Student Branch. Suatu hari, di sebuah acara internal kecil, ada tawaran mendadak untuk menjadi MC. Tidak ada yang spesial, hanya acara santai. Tidak ada yang mau. Hati saya ragu, "Saya tidak pernah melakukan ini."
+Tapi suara lain berbisik: "Jangan takut untuk mulai."
+Saya angkat tangan. Saya ambil kesempatan itu.
+Itu adalah *first time* saya berbicara di depan umum. Saya gugup, suara saya mungkin sedikit bergetar, tapi saya berhasil menyelesaikannya. Dan yang terpenting, saya tidak hancur. Justru, karena saya berani mengambil langkah itu, saya ditunjuk lagi di acara berikutnya. Dan lagi. Hingga puncaknya, kepercayaan diri yang dibangun dari acara-acara kecil itu membawa saya menjadi MC di dua *event* internasional IEEE: Youth International Forum 2025 dan Benchmarking with IEEE UiTM Malaysia.
+Semua itu terjadi hanya karena saya berani mengambil satu kesempatan kecil yang diremehkan banyak orang di awal.
 
-A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wordpress.com/2012/11/28/perginya-sang-mahaputera-dan-mahaguru-berkemeja-putih/)
+### Ujian Sebenarnya: Proyek, Duka, dan UAS
+Kecanduan itu membawa saya pada pertaruhan-pertaruhan yang lebih besar.
+Pada bulan Maret 2025, seorang teman menawarkan sebuah *IT project* berbayar senilai jutaan rupiah. Ini adalah proyek profesional pertama saya. Hati saya berteriak ragu. "Bagaimana jika gagal?" "Bagaimana jika saya mengecewakan teman saya?" "Saya belum pernah memegang proyek berbayar."
+Tapi motto dari UTS-1 kembali berbisik: *"Fake it till you make it."* Saya menarik napas dalam-dalam. Saya yakin, semua masalah teknis pasti ada jalan keluarnya di Google. Saya ambil proyek itu. Dan *alhamdulillah*, proyek itu berhasil saya selesaikan dengan baik. Itu adalah *turning point* saya. Keraguan untuk mengambil tanggung jawab profesional akhirnya pecah.
+Keberhasilan itu memberi saya keberanian untuk melangkah lebih jauh. Saya melihat pengumuman pembukaan mahasiswa kerja di Direktorat Sarana & Prasarana ITB. Mereka butuh *developer* untuk mengembangkan aplikasi SIMONA (Sistem Monitoring Aset). Dengan portofolio "Best Staff" dan satu proyek berbayar, saya memberanikan diri mendaftar.
+Saya diterima. Awalnya, saya hanya dikontrak 2 bulan sebagai masa percobaan. Saya kembali menerapkan etos kerja aviasi saya—memberikan yang terbaik, belajar cepat, dan tanpa cela. Hasilnya, kontrak 2 bulan itu diperpanjang menjadi 6 bulan, dan saya diberi tanggung jawab tambahan untuk ikut mengembangkan aplikasi eFacility.
+Namun, di tengah perjuangan itu, takdir memberi ujian terberatnya.
+Saya sedang berada di tengah-tengah pengerjaan proyek Sarpras itu. Saya juga sedang menghadapi neraka Ujian Akhir Semester 4. Jadwal tidur saya berantakan, tekanan begitu tinggi. Dan *qodarullah*, di tengah kekacauan itu, sebuah telepon datang. Ayah saya meninggal dunia secara mendadak.
+Dunia saya hancur seketika. Saya terpuruk.
+Saya kehilangan mentor, pahlawan, dan alasan saya berjuang. Rasanya mustahil untuk melanjutkan. Tapi di sinilah saya sadar. Mental yang ditempa sejak usia 6 tahun sebagai perantau, yang terbiasa mengelola perpisahan, kembali diuji. Entah bagaimana, saya berhasil mengumpulkan kepingan diri saya. Saya tahu ayah saya tidak akan senang jika saya menyerah. Saya tetap mengerjakan semuanya—UAS saya selesaikan, proyek Sarpras saya lanjutkan. Dengan menahan duka, saya selesaikan tanggung jawab saya satu per satu.
 
-Teasing story
-{{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
+### Lingkaran yang Sempurna
+Di tengah masa duka dan kerja keras itu, satu tawaran lagi datang. Sebuah tawaran untuk menjadi *speaker* mengenai *Prompt Engineering* di... **OSKM ITB 2025.**
+Meskipun mental saya sedang di titik terendah, kepercayaan diri yang saya bangun dari menjadi MC di IEEE membuat saya berkata 'ya'. Saya ambil kesempatan itu.
+Dan di sinilah ironi terindahnya. Di sinilah lingkaran saya menjadi sempurna.
+**Siapa sangka? Seorang mahasiswa "gaptek" yang di tahun 2024 ditolak mentah-mentah oleh kepanitiaan IT OSKM, setahun kemudian diundang kembali ke acara yang sama, berdiri di panggung yang sama, bukan sebagai panitia, tapi sebagai Pembicara.**
+
+Kisah ini adalah bukti hidup dari wawasan saya:
+Jangan pernah takut untuk memulai, tidak peduli seberapa "gaptek" atau tidak siapnya Anda. Jangan pernah remehkan satu kesempatan kecil, karena itu adalah anak tangga pertama. Ambil langkah itu, meskipun Anda ragu.
+Karena sekali Anda mulai dan merasakan nikmatnya bertumbuh, Anda akan kecanduan. Dan kecanduan itulah yang akan membawa Anda ke tempat-tempat yang tidak pernah Anda bayangkan.
