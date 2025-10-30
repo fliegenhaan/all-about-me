@@ -1,4 +1,5 @@
 # UTS-3: My Stories for You
+![About Me](../images/Raihaan-2.png){width="100%"}
 
 ## Kecanduan yang Membawa Berkah: Dari Gaptek Menjadi Developer
 Ada satu pesan yang ingin saya bagikan melalui kisah ini, sebuah keyakinan yang telah teruji oleh penolakan dan duka: **"Jangan pernah takut untuk mengambil langkah pertama. Sekali kamu mulai, kamu akan kecanduan."**
