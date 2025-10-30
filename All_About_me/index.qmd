@@ -19,8 +19,8 @@ Mari kita mulai dengan hal-hal yang tidak biasa (bagian yang membangun fondasi d
 Fakta-fakta di atas membentuk cara saya memandang dunia, termasuk dalam menikmati karya seni. Saya adalah pecinta film dan drama.
 Di saat orang lain menikmati genre *fantasy* atau *sci-fi* untuk melarikan diri dari dunia nyata, saya justru sebaliknya. Genre favorit saya adalah **Slice of Life**.
 Mengapa? Saya tidak mencari pelarian; saya mencari **koneksi**. Saya ingin mencari nilai-nilai kehidupan dan melihat perspektif lain dari kehidupan yang mirip dengan dunia nyata. Terkadang, ketika saya melihat suatu momen di drama yang pernah saya lewati, saya merasa ditemani. Saya merasa tidak sendirian di dunia ini.
-* **Favorit Slice of Life:** *Twinkling Watermelon*, yang menunjukkan bagaimana semangat bisa mengubah takdir.
-* **Sisi Lain:** Tentu saja, saya juga butuh adrenalin. Untuk itu, saya lari ke genre **Mystery** yang membuat jantung berdebar. Film *Parasite* adalah mahakarya yang sempurna untuk itu.
+|**Favorit Slice of Life:**Twinkling Watermelon*, yang menunjukkan bagaimana semangat bisa mengubah takdir.
+|**Sisi Lain:** Tentu saja, saya juga butuh adrenalin. Untuk itu, saya lari ke genre **Mystery** yang membuat jantung berdebar. Film *Parasite* adalah mahakarya yang sempurna untuk itu.
 
 ### 1.1.3 Wawasan Saya: Prinsip Bertahan Seorang Perantau
 Jika ada satu benang merah yang mengikat semua ini—dari DNA tiga pulau, ambisi SMA, hingga si gaptek yang nekat—itu semua berakar pada satu peristiwa:
@@ -33,6 +33,6 @@ Perpisahan itu melahirkan "prinsip nekat" saya. Motto yang saya pegang teguh ada
 Bagi saya, ini bukan tentang kebohongan. Ini adalah **strategi bertahan hidup seorang perantau.** Ini adalah keyakinan bahwa kesempatan yang datang terlalu berharga untuk dilewatkan hanya karena saya "merasa belum siap" dan apa yang seharusnya tidak ditakdirkan kepada saya pastilah tidak akan pernah datang dari awal.
 Tapi, motto itu memiliki bagian kedua yang krusial: *"...till you make it"*. Bagian "make it" ini tidak terjadi secara ajaib; ini membutuhkan **etos kerja** yang kuat. Saya menanamkan prinsip untuk melakukan setiap pekerjaan sebaik mungkin, tanpa ada *miss* sedikitpun.
 Etos kerja ini terbentuk tanpa sadar karena *basic* saya yang sedari kecil sangat menyukai **dunia aviasi**. Saya selalu kagum pada cara kerja orang-orang di industri itu. Mereka tidak boleh salah. Mereka harus melakukan segalanya sesempurna mungkin agar ratusan penumpang yang dibawa selamat sampai tujuan. Prinsip presisi dan perfeksionisme untuk keselamatan itulah yang tertanam di diri saya.
-* Bocah 6 tahun yang harus terlihat tangguh di lingkungan baru? *Fake it till you make it.*
-* Mahasiswa "gaptek" yang ditawari proyek *website*? *Fake it till you make it*, lalu kerjakan proyek itu dengan etos kerja aviasi.
+|*Bocah 6 tahun yang harus terlihat tangguh di lingkungan baru? *Fake it till you make it.*
+|* Mahasiswa "gaptek" yang ditawari proyek *website*? *Fake it till you make it*, lalu kerjakan proyek itu dengan etos kerja aviasi.
 Prinsip inilah **Agensi** (Agency) saya. Ini adalah cara saya mengambil kendali, mengubah kerugian (perpisahan, gaptek) menjadi sebuah kemenangan (pribadi yang tangguh, *developer* web).

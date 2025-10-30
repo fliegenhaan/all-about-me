@@ -7,11 +7,11 @@ Kelima dimensi ini—*Signature Strengths, Heart, Aptitudes, Personality, dan Ex
 
 *Hasil dari VIA Character Strengths Survey (30/10/2025)*
 
-1.  **Spiritualitas:** Memiliki keyakinan kuat akan makna dan tujuan hidup yang lebih besar, yang menjadi kompas dalam bertindak dan memberi kenyamanan.
-2.  **Kepemimpinan (Leadership):** Mampu mengorganisasi dan mendorong kelompok untuk menyelesaikan tugas sambil menjaga relasi baik di dalam tim.
-3.  **Kerja Sama Tim (Teamwork):** Bekerja dengan baik sebagai anggota tim, loyal, dan selalu menyelesaikan bagian tugas saya.
-4.  **Semangat (Zest):** Menjalani hidup sebagai petualangan dengan energi penuh, tidak pernah setengah-setengah.
-5.  **Humor:** Senang membawa senyuman kepada orang lain dan melihat sisi terang dari suatu masalah.
+|1.  **Spiritualitas:** Memiliki keyakinan kuat akan makna dan tujuan hidup yang lebih besar, yang menjadi kompas dalam bertindak dan memberi kenyamanan.
+|2.  **Kepemimpinan (Leadership):** Mampu mengorganisasi dan mendorong kelompok untuk menyelesaikan tugas sambil menjaga relasi baik di dalam tim.
+|3.  **Kerja Sama Tim (Teamwork):** Bekerja dengan baik sebagai anggota tim, loyal, dan selalu menyelesaikan bagian tugas saya.
+|4.  **Semangat (Zest):** Menjalani hidup sebagai petualangan dengan energi penuh, tidak pernah setengah-setengah.
+|5.  **Humor:** Senang membawa senyuman kepada orang lain dan melihat sisi terang dari suatu masalah.
 
 Saya sangat setuju dengan 5 kekuatan teratas ini.
 Kekuatan **Spiritualitas**, **Kepemimpinan**, dan **Kerja Sama Tim** merupakan pilar utama kehidupan saya. Bagi saya, tujuan hidup di dunia ini memiliki tujuan akhir di akhirat (menambah amalan di sisi Tuhan). Prinsip ini saya terapkan secara praktis dalam peran saya saat ini sebagai **Wakil Ketua Divisi** di Himpunan Mahasiswa. Di sana, saya berusaha memimpin dan bekerja sama dengan tim sebaik mungkin, bukan hanya untuk kesuksesan organisasi, tetapi juga sebagai bentuk ibadah dan penerapan dari nilai spiritualitas saya.
@@ -20,25 +20,25 @@ Sementara itu, **Semangat (Zest)** dan **Humor** adalah 'percikan' (spark) dalam
 ### H - Heart (Hati: Nilai & Gairah)
 
 Melalui refleksi pribadi, saya mengidentifikasi dua nilai inti yang tidak bisa saya negosiasikan:
-1.  **Kejujuran (Honesty):** Bertindak dengan integritas, lurus, dan dapat dipercaya.
-2.  **Keberanian (Courage):** Berani mengambil risiko, menghadapi ketidakpastian, dan membela apa yang benar.
+|1.  **Kejujuran (Honesty):** Bertindak dengan integritas, lurus, dan dapat dipercaya.
+|2.  **Keberanian (Courage):** Berani mengambil risiko, menghadapi ketidakpastian, dan membela apa yang benar.
 
 **Refleksi “Keautentikan”:**
-Nilai **Kejujuran** adalah fondasi dari "Etos Kerja Aviasi" saya. Dalam dunia aviasi, tidak ada jalan pintas; semuanya harus dilakukan dengan benar demi keselamatan. Begitu pula saya, saya memegang teguh integritas dalam pekerjaan saya.
-
-Nilai **Keberanian** adalah bahan bakar untuk motto hidup saya "Fake it till you make it." Ini adalah nilai yang mendorong kekuatan **Semangat (Zest)** saya. Tanpa keberanian, saya tidak akan pernah mengambil proyek berbayar pertama saya, atau menerima tawaran MC pertama kali.
+|Nilai **Kejujuran** adalah fondasi dari "Etos Kerja Aviasi" saya. Dalam dunia aviasi, tidak ada jalan pintas; semuanya harus dilakukan dengan benar demi keselamatan. Begitu pula saya, saya memegang teguh integritas dalam pekerjaan saya.
+|
+|Nilai **Keberanian** adalah bahan bakar untuk motto hidup saya "Fake it till you make it." Ini adalah nilai yang mendorong kekuatan **Semangat (Zest)** saya. Tanpa keberanian, saya tidak akan pernah mengambil proyek berbayar pertama saya, atau menerima tawaran MC pertama kali.
 
 ### A - Aptitudes (Bakat & Keterampilan)
 
 Ini adalah inventaris dari kemampuan praktis yang telah saya asah melalui pengalaman.
 
 **Keterampilan Teknis & Profesional:**
-* **Web Development (Full-Stack):** Terbukti melalui pengembangan aplikasi SIMONA & eFacility di Sarpras ITB.
-* **Public Speaking & MC:** Terlatih memandu acara formal, termasuk dua *event* internasional IEEE.
-* **Etos Kerja:** Kemampuan untuk bekerja dengan presisi tinggi, teliti, dan *zero-mistake mindset*.
-* **Manajemen Proyek:** Mampu mengelola *timeline* dan *deliverables* (terbukti dari proyek berbayar dan kepanitiaan).
+|**Web Development (Full-Stack):** Terbukti melalui pengembangan aplikasi SIMONA & eFacility di Sarpras ITB.
+|**Public Speaking & MC:** Terlatih memandu acara formal, termasuk dua *event* internasional IEEE.
+|**Etos Kerja:** Kemampuan untuk bekerja dengan presisi tinggi, teliti, dan *zero-mistake mindset*.
+|**Manajemen Proyek:** Mampu mengelola *timeline* dan *deliverables* (terbukti dari proyek berbayar dan kepanitiaan).
 
-**Keterampilan Interpersonal & Mental:**
+*Keterampilan Interpersonal & Mental:**
 * **Adaptabilitas:** Kemampuan beradaptasi cepat dengan lingkungan baru (terbentuk dari "DNA Tiga Pulau").
 * **Ketangguhan (Resilience):** Kemampuan untuk bangkit dari tekanan dan duka (terbentuk dari pengalaman perantau 6 tahun dan menghadapi UAS saat ayah berpulang).
 * **Kepemimpinan Tim:** Mampu mengorganisasi dan memotivasi tim (terbukti sebagai "Best Staff" dan Wakadiv Himpunan).
@@ -56,8 +56,8 @@ Di sinilah letak paradoks terbesar saya.
 
 Refleksi saya adalah: Saya seorang **"ISTJ yang didorong oleh Keberanian."**
 Saya bukanlah seorang improviser murni. Perbedaannya tipis namun krusial:
-1.  **"Fake it"** adalah tindakan **Keberanian (H)** dan **Semangat (S)** saya untuk *memaksa* diri saya masuk ke situasi baru.
-2.  **"Make it"** adalah saat di mana kepribadian **ISTJ (P)** dan **Etos Kerja Aviasi (A)** saya mengambil alih. Saya tidak akan "make it" dengan berimprovisasi. Saya akan "make it" dengan bekerja keras, belajar gila-gilaan, menyusun rencana, dan mengeksekusinya dengan sempurna.
+|1.  **"Fake it"** adalah tindakan **Keberanian (H)** dan **Semangat (S)** saya untuk *memaksa* diri saya masuk ke situasi baru.
+|2.  **"Make it"** adalah saat di mana kepribadian **ISTJ (P)** dan **Etos Kerja Aviasi (A)** saya mengambil alih. Saya tidak akan "make it" dengan berimprovisasi. Saya akan "make it" dengan bekerja keras, belajar gila-gilaan, menyusun rencana, dan mengeksekusinya dengan sempurna.
 
 Jadi, "Fake it till you make it" versi saya adalah: **"Ambil risikonya dengan berani, lalu selesaikan dengan presisi seorang ISTJ."**
 
@@ -65,15 +65,15 @@ Jadi, "Fake it till you make it" versi saya adalah: **"Ambil risikonya dengan be
 
 Tiga pengalaman hidup ini adalah pilar yang membentuk narasi saya:
 
-1.  **Perantau 6 Tahun & Duka di Tengah UAS (The Crucible):** Ini adalah pengalaman yang menempa saya. Menjadi perantau sejak kecil dan harus menghadapi UAS sambil berduka atas kepergian ayah adalah "pabrik" yang memproduksi **Ketangguhan (A)** dan memperkuat **Spiritualitas (S)** saya—keyakinan bahwa ada tujuan lebih besar di balik semua kesulitan.
-2.  **Ditolak OSKM 2024 -> Speaker OSKM 2025 (The Redemption):** Ini adalah kisah penebusan saya, yang saya ceritakan lengkap di **UTS-3: My Stories for You**. Ini adalah bukti nyata dari paradoks saya: penolakan (kegagalan) memicu **Keberanian (H)** saya untuk belajar otodidak, yang kemudian dieksekusi dengan etos kerja **ISTJ (P)**, yang berbuah penebusan.
-3.  **MC Kecil IEEE -> MC Internasional (The Spark):** Pengalaman ini adalah bukti prinsip "jangan takut untuk mulai". Ini adalah momen di mana **Keberanian (H)** saya mengalahkan keraguan, yang pada akhirnya membangun keterampilan **Public Speaking (A)** dan membuka pintu yang tidak pernah saya bayangkan.
+|1.  **Perantau 6 Tahun & Duka di Tengah UAS (The Crucible):** Ini adalah pengalaman yang menempa saya. Menjadi perantau sejak kecil dan harus menghadapi UAS sambil berduka atas kepergian ayah adalah "pabrik" yang memproduksi **Ketangguhan (A)** dan memperkuat **Spiritualitas (S)** saya—keyakinan bahwa ada tujuan lebih besar di balik semua kesulitan.
+|2.  **Ditolak OSKM 2024 -> Speaker OSKM 2025 (The Redemption):** Ini adalah kisah penebusan saya, yang saya ceritakan lengkap di **UTS-3: My Stories for You**. Ini adalah bukti nyata dari paradoks saya: penolakan (kegagalan) memicu **Keberanian (H)** saya untuk belajar otodidak, yang kemudian dieksekusi dengan etos kerja **ISTJ (P)**, yang berbuah penebusan.
+|3.  **MC Kecil IEEE -> MC Internasional (The Spark):** Pengalaman ini adalah bukti prinsip "jangan takut untuk mulai". Ini adalah momen di mana **Keberanian (H)** saya mengalahkan keraguan, yang pada akhirnya membangun keterampilan **Public Speaking (A)** dan membuka pintu yang tidak pernah saya bayangkan.
 
-### 4.0.6 Piagam Diri (Self Charter) Saya
+### Piagam Diri (Self Charter) Saya
 
 Berdasarkan semua analisis SHAPE ini, inilah Piagam Diri saya:
-**“Saya adalah seorang ISTJ (Logistician) yang hidup dalam paradoks: di satu sisi logis dan terstruktur, di sisi lain didorong oleh Semangat (Zest) dan Keberanian (Courage).**
-**Nilai inti saya adalah Kejujuran dan Keberanian. Kekuatan terbesar saya adalah Kepemimpinan dan Spiritualitas, yang saya wujudkan dalam peran saya di organisasi.**
-**Prinsip ‘Fake it till you make it’ saya adalah sintesis unik: saya mengambil risiko dengan Keberanian, lalu menyelesaikannya dengan presisi seorang ISTJ dan Etos Kerja Aviasi.**
-**Saya dibentuk oleh pengalaman perantauan dan kedukaan, yang mengajarkan saya Ketangguhan. Kisah saya adalah tentang penebusan (Ditolak OSKM -> Speaker OSKM).**
-**Tujuan saya adalah menggunakan Kepemimpinan dan keterampilan teknis saya untuk menyelesaikan setiap tanggung jawab dengan integritas, sebagai bagian dari ibadah saya.”**
+>“Saya adalah seorang ISTJ (Logistician) yang hidup dalam paradoks: di satu sisi logis dan terstruktur, di sisi lain didorong oleh Semangat (Zest) dan Keberanian (Courage).
+>Nilai inti saya adalah Kejujuran dan Keberanian. Kekuatan terbesar saya adalah Kepemimpinan dan Spiritualitas, yang saya wujudkan dalam peran saya di organisasi.
+>Prinsip ‘Fake it till you make it’ saya adalah sintesis unik: saya mengambil risiko dengan Keberanian, lalu menyelesaikannya dengan presisi seorang ISTJ dan Etos Kerja Aviasi.
+>Saya dibentuk oleh pengalaman perantauan dan kedukaan, yang mengajarkan saya Ketangguhan. Kisah saya adalah tentang penebusan (Ditolak OSKM -> Speaker OSKM).
+>Tujuan saya adalah menggunakan Kepemimpinan dan keterampilan teknis saya untuk menyelesaikan setiap tanggung jawab dengan integritas, sebagai bagian dari ibadah saya.”
