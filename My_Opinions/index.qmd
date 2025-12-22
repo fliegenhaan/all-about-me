@@ -1,6 +1,8 @@
 # UAS-2 My Opinions
 
 **Opini Berpengaruh: Dari Program Sosial Berbasis Niat ke Sistem Berbasis Bukti**
+![UAS 2](../images/uas2.png)
+
 Beropini, dalam konteks rekayasa sistem dan teknologi informasi, bukanlah sekadar menyatakan setuju atau tidak setuju. Opini yang berpengaruh adalah opini yang mampu memetakan akar masalah, menunjukkan keterbatasan pendekatan yang ada, dan menawarkan arah perbaikan yang rasional. Dalam isu kelaparan dan kerawanan pangan, saya berpendapat bahwa tantangan utama saat ini bukan terletak pada kurangnya program sosial, melainkan pada **cara program tersebut dirancang, dieksekusi, dan dievaluasi sebagai sebuah sistem**.
 
 ## I. Krisis Pendekatan Konvensional dalam Program Pangan

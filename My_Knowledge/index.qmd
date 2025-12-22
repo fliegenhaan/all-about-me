@@ -2,7 +2,7 @@
 
 **Landasan Pengetahuan Sistem dan Teknologi Informasi dalam Penanganan Kelaparan di Era AI**
 
-![Valorize Learning](../images/5forces.png)
+![UAS 4](../images/uas4.png)
 
 Untuk merancang dan mengevaluasi sebuah masterpiece rekayasa sistem dan teknologi informasi, inovasi tidak dapat berdiri tanpa fondasi pengetahuan yang kokoh. Pengetahuan, dalam konteks ini, bukan sekadar penguasaan teknologi, melainkan pemahaman tentang **bagaimana sistem bekerja, bagaimana keputusan diambil, dan bagaimana teknologi memengaruhi relasi sosial**. Dalam isu kelaparan dan kerawanan pangan, landasan pengetahuan ini menjadi krusial karena kesalahan desain sistem dapat berdampak langsung pada kehidupan manusia.
 

@@ -1,7 +1,8 @@
 # UAS-1 My Concepts
 
 **My Masterpiece: Rekayasa Sistem Informasi untuk Menghadapi Kelaparan di Era Artificial Intelligence**
-
+![UAS 1](../images/uas1.png)
+*credit: ANTARA news*
 
 Kelaparan dan kerawanan pangan sering dipersepsikan sebagai persoalan produksi makanan: gagal panen, kekurangan pasokan, atau keterbatasan sumber daya alam. Namun, dalam pandangan saya, kelaparan modern terutama di negara berkembang lebih tepat dipahami sebagai kegagalan sistem, bukan sekadar kekurangan pangan. Makanan sering kali tersedia, anggaran negara dialokasikan, dan kebijakan dirancang; tetapi pada praktiknya, distribusi tidak merata, prioritas tidak tepat sasaran, dan akuntabilitas sulit ditelusuri.
 Pandangan ini tidak lahir semata dari pembacaan data global, melainkan juga dari pengalaman personal saya tumbuh di lingkungan di mana akses terhadap makanan bergizi tidak selalu menjadi sesuatu yang pasti. Di sisi lain, saya juga menyaksikan bagaimana program bantuan pemerintah yang secara konsep sangat baik masih menghadapi tantangan serius dalam hal pemerataan dan transparansi. Dari titik inilah saya memandang kelaparan sebagai **krisis koordinasi informasi, pengambilan keputusan, dan kepercayaan publik**.
