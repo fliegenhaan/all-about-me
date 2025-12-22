@@ -1,7 +1,71 @@
-## UAS-4 My Knowledge
+# UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+**Landasan Pengetahuan Sistem dan Teknologi Informasi dalam Penanganan Kelaparan di Era AI**
+
+![Valorize Learning](../images/5forces.png)
+
+Untuk merancang dan mengevaluasi sebuah masterpiece rekayasa sistem dan teknologi informasi, inovasi tidak dapat berdiri tanpa fondasi pengetahuan yang kokoh. Pengetahuan, dalam konteks ini, bukan sekadar penguasaan teknologi, melainkan pemahaman tentang **bagaimana sistem bekerja, bagaimana keputusan diambil, dan bagaimana teknologi memengaruhi relasi sosial**. Dalam isu kelaparan dan kerawanan pangan, landasan pengetahuan ini menjadi krusial karena kesalahan desain sistem dapat berdampak langsung pada kehidupan manusia.
+
+## I. Sistem Informasi sebagai Sistem Sosio-Teknis
+
+Pengetahuan pertama yang mendasari *masterpiece* ini adalah pemahaman bahwa sistem informasi selalu bersifat **sosio-teknis**. Artinya, sistem tidak hanya terdiri dari perangkat lunak, basis data, dan jaringan, tetapi juga manusia, institusi, aturan, serta nilai yang mengikatnya.
+
+Dalam konteks program pangan, sistem informasi harus mampu:
+
+1.  merepresentasikan realitas sosial yang kompleks,
+
+2.  menjembatani perbedaan kepentingan antar aktor,
+
+3.  serta memfasilitasi koordinasi lintas institusi.
+
+Tanpa pemahaman ini, sistem berisiko menjadi alat administratif semata, yang secara teknis berfungsi tetapi gagal menghasilkan dampak sosial yang bermakna.
+
+## II. Artificial Intelligence sebagai Sistem Pendukung Keputusan
+
+Pengetahuan kedua berkaitan dengan peran Artificial Intelligence dalam sistem publik. Secara keilmuan, AI unggul dalam pengolahan data besar, pengenalan pola, dan prediksi berbasis statistik. Namun, AI tidak memiliki kesadaran kontekstual, nilai moral, maupun tanggung jawab sosial.
+
+Oleh karena itu, dalam kerangka pengetahuan saya, AI harus ditempatkan sebagai **Decision Support System (DSS)**. AI membantu:
+
+1.  menyaring kompleksitas data,
+
+2.  mengurangi bias akibat keterbatasan persepsi manusia,
+
+3.  dan menyediakan alternatif berbasis bukti.
+
+Keputusan akhir tetap berada di tangan manusia. Pendekatan ini penting untuk menghindari automation bias kecenderungan manusia menerima rekomendasi sistem tanpa refleksi kritis yang sangat berbahaya dalam kebijakan publik terkait pangan dan kesejahteraan.
+
+## III. Blockchain dan Prinsip Akuntabilitas Sistem
+
+Landasan pengetahuan berikutnya adalah pemahaman tentang blockchain sebagai **infrastruktur kepercayaan**, bukan sekadar teknologi finansial. Secara prinsip, blockchain menawarkan:
+
+1.  keterlacakan data,
+
+2.  ketidakdapatubahan catatan,
+
+3.  dan mekanisme audit yang terdistribusi.
+
+Dalam sistem sosial, sifat-sifat ini berkontribusi langsung pada peningkatan akuntabilitas. Pengetahuan ini menjadi relevan karena masalah utama dalam program pangan bukan hanya siapa yang berhak menerima bantuan, tetapi juga **bagaimana proses tersebut dapat diverifikasi secara terbuka**.
+
+Dengan blockchain, transparansi tidak lagi bergantung pada kepercayaan personal atau laporan manual, melainkan tertanam langsung dalam arsitektur sistem.
+
+## IV. Backend System dan Integritas Data
+
+Sebagai seseorang yang berfokus pada pengembangan backend, saya memandang pengetahuan tentang **integritas data dan arsitektur sistem** sebagai fondasi utama. Analisis AI dan transparansi blockchain tidak akan bermakna tanpa:
+
+1.  data yang konsisten,
+
+2.  proses yang terstruktur,
+
+3.  dan alur sistem yang dapat dipertanggungjawabkan.
+
+Pengetahuan ini menegaskan bahwa backend system bukan sekadar lapisan teknis tersembunyi, melainkan **tulang punggung pengambilan keputusan berbasis data**. Kesalahan desain di lapisan ini dapat menyebabkan distorsi analisis dan ketidakadilan distribusi.
+
+## V. Etika dan Tanggung Jawab dalam Rekayasa Sistem
+
+Pengetahuan terakhir yang menjadi fondasi masterpiece ini adalah etika rekayasa sistem di era AI. Setiap keputusan desain apa yang diukur, data apa yang digunakan, dan siapa yang memiliki akses memiliki implikasi etis.
+
+Dalam isu kelaparan, kesalahan sistem bukan sekadar bug teknis, melainkan potensi ketidakadilan sosial. Oleh karena itu, rekayasawan sistem dan teknologi informasi harus memiliki kesadaran bahwa **setiap baris kode dan setiap arsitektur sistem adalah bentuk intervensi sosial**.
+
+### Penutup
+
+Dengan landasan pengetahuan ini, *masterpiece* yang saya ajukan tidak berdiri sebagai eksperimen teknologi, melainkan sebagai **upaya rekayasa sistem yang sadar konteks, bertanggung jawab, dan berorientasi pada dampak sosial**. Pengetahuan tentang sistem, AI, blockchain, dan etika menjadi jembatan antara konsep, opini, dan inovasi yang telah dipaparkan pada bagian sebelumnya.
