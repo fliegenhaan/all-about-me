@@ -1,5 +1,48 @@
-## UAS-3 My Opinions
+# UAS-2 My Opinions
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+**Opini Berpengaruh: Dari Program Sosial Berbasis Niat ke Sistem Berbasis Bukti**
+Beropini, dalam konteks rekayasa sistem dan teknologi informasi, bukanlah sekadar menyatakan setuju atau tidak setuju. Opini yang berpengaruh adalah opini yang mampu memetakan akar masalah, menunjukkan keterbatasan pendekatan yang ada, dan menawarkan arah perbaikan yang rasional. Dalam isu kelaparan dan kerawanan pangan, saya berpendapat bahwa tantangan utama saat ini bukan terletak pada kurangnya program sosial, melainkan pada **cara program tersebut dirancang, dieksekusi, dan dievaluasi sebagai sebuah sistem**.
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+## I. Krisis Pendekatan Konvensional dalam Program Pangan
+
+Program bantuan pangan, termasuk inisiatif berskala nasional seperti program makan bergizi, sering kali lahir dari niat yang kuat dan tujuan yang mulia. Namun, niat baik tidak selalu berbanding lurus dengan dampak yang optimal. Pendekatan konvensional cenderung mengandalkan:
+1.  data statis,
+
+2.  asumsi makro,
+
+3.  serta mekanisme distribusi yang sulit beradaptasi terhadap dinamika lapangan.
+
+Akibatnya, muncul paradoks kebijakan: di satu sisi, anggaran disalurkan; di sisi lain, masih terdapat wilayah dan kelompok yang luput dari perhatian. Dalam konteks ini, kelaparan bukan sekadar kegagalan distribusi fisik, melainkan **kegagalan sistem informasi dalam menangkap realitas sosial secara akurat dan tepat waktu**.
+
+## II. Supremasi Data tanpa Supremasi Keputusan
+Di era Artificial Intelligence, kita hidup dalam kelimpahan data. Ironisnya, kelimpahan ini tidak selalu menghasilkan keputusan yang lebih baik. Tanpa arsitektur sistem yang tepat, data justru berisiko menjadi noise—banyak, tetapi tidak bermakna.
+
+Opini saya adalah bahwa masalahnya bukan pada absennya teknologi canggih, melainkan pada ketiadaan sistem pengambilan keputusan yang terstruktur. AI mampu memproses data jauh melampaui kapasitas manusia, tetapi tanpa desain peran yang jelas, AI dapat tereduksi menjadi sekadar alat pelaporan, bukan instrumen perubahan kebijakan.
+
+Oleh karena itu, saya menolak dua ekstrem:
+
+1.  mengabaikan AI karena dianggap terlalu kompleks, dan
+
+2.  menyerahkan sepenuhnya keputusan sosial kepada algoritma.
+
+Pendekatan yang saya anggap tepat adalah **AI sebagai mitra kognitif**, yang memperkuat, bukan menggantikan, rasionalitas pembuat kebijakan.
+
+## III. Transparansi sebagai Prasyarat Keberlanjutan Program
+
+Aspek lain yang sering terpinggirkan dalam diskursus program pangan adalah kepercayaan publik. Ketika masyarakat tidak dapat melihat bagaimana dana mengalir, bagaimana penyedia dipilih, dan bagaimana makanan benar-benar sampai ke penerima manfaat, maka keberlanjutan program akan selalu berada dalam posisi rentan.
+
+Menurut saya, transparansi bukan sekadar isu administratif, melainkan komponen sistemik yang menentukan legitimasi kebijakan. Tanpa transparansi yang dapat diverifikasi, program sosial akan selalu dibayangi skeptisisme, bahkan ketika hasilnya positif. Di sinilah sistem informasi modern—dengan prinsip keterlacakan dan auditabilitas—harus mengambil peran strategis.
+
+## IV. Menuju Rekayasa Program Pangan yang Lebih Dewasa
+
+Berdasarkan pandangan di atas, saya beropini bahwa transformasi program pangan harus bergerak:
+
+1.  dari pendekatan berbasis niat ke pendekatan berbasis bukti,
+
+2.  dari kebijakan reaktif ke sistem adaptif,
+
+3.  dan dari proses tertutup ke ekosistem yang transparan.
+
+Rekayasa sistem dan teknologi informasi di era AI memungkinkan pergeseran ini, asalkan dirancang dengan kesadaran etis dan tanggung jawab sosial. Tantangan kelaparan terlalu kompleks untuk diselesaikan dengan solusi tunggal; ia membutuhkan **orkestrasi teknologi, kebijakan, dan nilai kemanusiaan** dalam satu kesatuan sistem.
+
+Dengan demikian, opini saya menegaskan bahwa masa depan program pangan tidak ditentukan oleh seberapa canggih teknologinya, melainkan oleh **seberapa bijak teknologi tersebut diintegrasikan ke dalam proses pengambilan keputusan publik**.
