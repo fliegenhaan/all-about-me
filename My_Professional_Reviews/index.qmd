@@ -1,2 +1,29 @@
-## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+# UAS-5 My Professional Reviews
+
+Bagian ini merupakan penutup dari rangkaian My Masterpiece, berisi evaluasi profesional terhadap karya saya sendiri (Self-Assessment) dan karya rekan sejawat (Peer-Assessment). Seluruh penilaian dilakukan berdasarkan rubrik yang telah ditetapkan pada asesmen UAS.
+
+## Unduh Lembar Skor
+
+Rekapitulasi skor lengkap (Self-Assessment dan Peer-Assessment) dapat diunduh melalui tautan berikut untuk keperluan verifikasi dan pelaporan:
+
+* **[Unduh Lembar Skor Lengkap (XLSX/CSV)](./UAS-5_Skor.xlsx)**
+
+---
+
+## Self-Assessment (Muhammad Raihaan Perdana - 13523124)
+
+**Topik Masterpiece:** *Rekayasa Sistem dan Teknologi Informasi untuk Penanganan Kelaparan dan Kerawanan Pangan di Era Artificial Intelligence*
+
+Berikut adalah hasil evaluasi mandiri terhadap portofolio UAS 1–4 yang telah saya susun dengan bantuan AI sebagai alat reflektif berbasis rubrik:
+
+| Komponen UAS | Skor Rata-rata | Keterangan Singkat |
+| :--- | :---: | :--- |
+| **UAS-1: My Concepts** | **5.0** | Konsep kelaparan diposisikan sebagai masalah sistem sosio-teknis, dengan framing yang konsisten dan relevan terhadap konteks kebijakan publik. |
+| **UAS-2: My Opinions** | **5.0** | Opini disampaikan secara argumentatif dan kritis terhadap pendekatan konvensional program pangan, dengan sikap optimis-kritis terhadap peran AI. |
+| **UAS-3: My Innovations** | **5.0** | Inovasi *MakanBergiziGabocor* disajikan sebagai rekayasa sistem terintegrasi (backend, AI, blockchain) dengan potensi implementasi nyata. |
+| **UAS-4: My Knowledge** | **5.0** | Landasan pengetahuan relevan dan mampu menjembatani teori sistem informasi, AI, blockchain, serta aspek etika rekayasa sistem. |
+
+**Kesimpulan:**
+Secara keseluruhan, portofolio ini telah memenuhi kriteria Masterpiece dengan menunjukkan kesinambungan antara konsep, opini, inovasi, dan pengetahuan. Solusi yang diajukan bersifat sistemik, bertanggung jawab, dan memiliki potensi kontribusi nyata dalam mendukung kebijakan publik terkait penanganan kelaparan dan kerawanan pangan.
+
+---
