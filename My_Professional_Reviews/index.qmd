@@ -32,7 +32,7 @@ Secara keseluruhan, portofolio ini telah memenuhi kriteria Masterpiece dengan me
 
 Berikut penilaian saya terhadap:
 
-1. 13523161	Arlow Emmanuel Hergara
+13523161 Arlow Emmanuel Hergara:
 
 | Komponen UAS | Skor Rata-rata | Keterangan Singkat |
 | :--- | :---: | :--- |
@@ -41,7 +41,7 @@ Berikut penilaian saya terhadap:
 | **UAS-3: My Innovations** | **4.75** | Inovasi Continuous Learning Model dijelaskan secara teknis dan sistemik, dengan komponen memori berlapis dan reinforcement learning yang koheren. |
 | **UAS-4: My Knowledge** | **4.75** | Landasan pengetahuan AI klasik (supervised & unsupervised learning) disajikan komprehensif dan mendukung inovasi yang diusulkan. |
 
-2. 11422030	Rifki Friz Farabi
+11422030 Rifki Friz Farabi:
 
 | Komponen UAS | Skor Rata-rata | Keterangan Singkat |
 | :--- | :---: | :--- |
@@ -50,7 +50,7 @@ Berikut penilaian saya terhadap:
 | **UAS-3: My Innovations** | **4.50** | Inovasi Bio-Digital Storage mengintegrasikan Blockchain dan IoT secara konkret untuk transparansi dan reduksi food waste dalam rantai pasok pangan. |
 | **UAS-4: My Knowledge** | **4.75** | Landasan pengetahuan manajemen rantai pasok digital dan analisis prediktif disajikan kuat dan mendukung implementasi inovasi yang diusulkan. |
 
-3. 13523134	Sebastian Enrico Nathanael
+13523134 Sebastian Enrico Nathanael:
 
 | Komponen UAS | Skor Rata-rata | Keterangan Singkat |
 | :--- | :---: | :--- |
