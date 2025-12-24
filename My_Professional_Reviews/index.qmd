@@ -55,4 +55,4 @@ Berikut penilaian saya terhadap:
 | **UAS-3: My Innovations** | **4.75** | Inovasi infrastruktur nomaden dan reaktor pangan mikro menawarkan solusi adaptif yang visioner terhadap krisis iklim dan pangan. |
 | **UAS-4: My Knowledge** | **4.75** | Pengetahuan tentang keterkaitan iklim, kemiskinan, dan konflik disajikan sistemik dan mendukung argumen inovasi secara konseptual. |
 
-* **[Unduh Lembar Skor Lengkap (XLSX/CSV)](./UAS-5_Skor_Peer.xlsx)**
+* **[Unduh Lembar Skor Lengkap (XLSX/CSV)](./UAS-5_Skor.xlsx)**
