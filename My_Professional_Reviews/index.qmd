@@ -32,6 +32,7 @@ Secara keseluruhan, portofolio ini telah memenuhi kriteria Masterpiece dengan me
 
 Berikut penilaian saya terhadap:
 1. 13523161	Arlow Emmanuel Hergara
+
 | Komponen UAS | Skor Rata-rata | Keterangan Singkat |
 | :--- | :---: | :--- |
 | **UAS-1: My Concepts** | **4.50** | Konsep Learning Model AI disajikan dengan logika yang runtut dan reflektif, menekankan AI sebagai sistem yang mampu belajar berkelanjutan.|
@@ -40,6 +41,7 @@ Berikut penilaian saya terhadap:
 | **UAS-4: My Knowledge** | **4.75** | Landasan pengetahuan AI klasik (supervised & unsupervised learning) disajikan komprehensif dan mendukung inovasi yang diusulkan. |
 
 2. 11422030	Rifki Friz Farabi
+
 | Komponen UAS | Skor Rata-rata | Keterangan Singkat |
 | :--- | :---: | :--- |
 | **UAS-1: My Concepts** | **4.75** | Konsep Global Food Bio-Logistics Intelligence disajikan jelas dan berbasis data global, dengan framing masalah kelaparan sebagai isu distribusi, bukan produksi. |
@@ -48,6 +50,7 @@ Berikut penilaian saya terhadap:
 | **UAS-4: My Knowledge** | **4.75** | Landasan pengetahuan manajemen rantai pasok digital dan analisis prediktif disajikan kuat dan mendukung implementasi inovasi yang diusulkan. |
 
 3. 13523134	Sebastian Enrico Nathanael
+
 | Komponen UAS | Skor Rata-rata | Keterangan Singkat |
 | :--- | :---: | :--- |
 | **UAS-1: My Concepts** | **5.0** | Konsep Neo-Terraforming Protocol kuat secara metafora sistem dan berhasil memosisikan perubahan iklim sebagai kegagalan sistem global. |
